@@ -6,4 +6,4 @@ Prefix the API URL with this
 - https://cors-anywhere.herokuapp.com/
 
 Example
-- https://cors-anywhere.herokuapp.com/https://kwamehasmay.wives/getsomething/ 
+- https://cors-anywhere.herokuapp.com/https://kwamehasmany.wives/getsomething/ 
