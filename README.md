@@ -2,8 +2,8 @@
 This is a short quickest fix for your CORS Error in making API Calls 
 
 # Solution
-Prefix the api URL with this
+Prefix the API URL with this
 - https://cors-anywhere.herokuapp.com/
 
-example
+Example
 - https://cors-anywhere.herokuapp.com/https://kwamehasmay.wives/getsomething/ 
